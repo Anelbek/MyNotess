@@ -72,16 +72,6 @@ fun SplashScreen(navController: NavHostController) {
                 .align(Alignment.BottomCenter)
                 .padding(16.dp)
         )
-//    Scaffold(modifier = Modifier.fillMaxSize()) {
-//        Column(
-//            modifier = Modifier
-//            .padding(it).
-//            fillMaxSize(),
-//            horizontalAlignment = Alignment.CenterHorizontally,
-//            verticalArrangement = Arrangement.Center) {
-//                Text(text = "Note")
-//        }
-//    }
 
     }
 }
